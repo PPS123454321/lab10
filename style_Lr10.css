@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+}
+
+p{
+    margin: 0;
+}
+
+.mainpage{
+    background: linear-gradient(180deg, #A2A2A2 0%, rgba(162, 162, 162, 0) 100%);
+    width: 1519px;
+    height: 753px;
+}
+
+.mainpage_flex{
+    display: inline-flex;
+    padding: 65px 130px;
+}
+
+.mainphoto{
+    width: 484px;
+    height: 620px;
+}
+
+.h_and_birds{
+    padding: 5px 60px;
+}
+
+.heading{
+    font-size: 96px;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.page1{
+    width: 1519px;
+    height: 753px;
+}
+
+.page1_flex{
+    display: inline-flex;
+    padding: 60px 140px;
+}
+
+.photo1-2{
+    padding-left: 90px;
+}
+
+.photo1-3{
+    padding-left: 90px;
+}
+
+.text1{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.page2{
+    width: 1519px;
+    height: 753px;
+}
+
+.page2_flex{
+    display: inline-flex;
+    padding: 130px 140px;
+}
+
+.text2{
+    width: 353px;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 60px;
+    padding-left: 44px;
+}
+
+.photo2-2{
+    padding-left: 44px;
+}
+
+.page3{
+    background: linear-gradient(180deg, rgba(162, 162, 162, 0) 0%, #A2A2A2 100%);
+    width: 1519px;
+    height: 753px;
+}
+
+.page3_flex{
+    display: inline-flex;
+    padding: 60px 140px;
+}
+
+.subscribe{
+    padding: 20px 40px;
+}
+
+.text_subscribe{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.emblems{
+    display: inline-flex;
+}
+
+.vk{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 50px;
+}
